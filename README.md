@@ -160,8 +160,6 @@ Izvrši sledeću komandu da pokreneš razvojni server:
 npm run dev
 ```
 
-Otvori u pregledaču adresu: [http://localhost:3000](http://localhost:3000).
-
 ### 2. Instalacija Memcached na Ubuntu  
    Ažuriraj listu paketa:  
   
